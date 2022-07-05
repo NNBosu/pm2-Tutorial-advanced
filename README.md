@@ -6,7 +6,7 @@
 * The Usage is everywhere the same
 
 # Installation
-* First install [nodejs v12.7 or higher (Suggest is current: 16.13)](https://github.com/Tomato6966/Debian-Cheat-Sheat-Setup/wiki/3.1-Install-nodejs-and-npm)
+* First install [nodejs v12.7 or higher (Suggest is current: 16.13)
 * Then type: ```npm i -g pm2```
 
 # Usage - node.js Processes
